@@ -1,1 +1,13 @@
+About this Course
 
+This course is intended for persons involved in machine learning who are interested in medical applications, 
+or vice versa, medical professionals who are interested in the methods modern computer science has to offer to their field. 
+We will cover health data analysis, different types of neural networks, as well as training and application of neural networks applied on real-world medical scenarios.
+
+We cover deep learning (DL) methods, healthcare data and applications using DL methods. 
+The courses include activities such as video lectures, self guided programming labs, homework assignments (both written and programming), and a large project.
+
+The first phase of the course will include video lectures on different DL and health applications topics, self-guided labs and multiple homework assignments.
+In this phase, you will build up your knowledge and experience in developing practical deep learning models on healthcare data. 
+The second phase of the course will be a large project that can lead to a technical report and functioning demo of the deep learning models for addressing some specific healthcare problems. 
+We expect the best projects can potentially lead to scientific publications.
